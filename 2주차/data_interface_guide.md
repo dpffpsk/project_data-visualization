@@ -20,19 +20,21 @@
 
      ***
 
-     A        .08167
+     letter&nbsp;&nbsp;&nbsp;&nbsp;frequency
      
-     B        .01492
+     A&nbsp;&nbsp;&nbsp;&nbsp;.08167
      
-     C        .02780
+     B&nbsp;&nbsp;&nbsp;&nbsp;.01492
      
-     D        .04253
+     C&nbsp;&nbsp;&nbsp;&nbsp;.02780
      
-     E        .12702
+     D&nbsp;&nbsp;&nbsp;&nbsp;.04253
      
-     F        .02288
+     E&nbsp;&nbsp;&nbsp;&nbsp;.12702
      
-     G        .02022
+     F&nbsp;&nbsp;&nbsp;&nbsp;.02288
+     
+     G&nbsp;&nbsp;&nbsp;&nbsp;.02022
      
      …
      
