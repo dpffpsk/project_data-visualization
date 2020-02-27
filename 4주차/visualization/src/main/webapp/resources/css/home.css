@@ -1,0 +1,21 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+ 
+body{
+    color: #777777;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 2px 0px;
+  cursor: pointer;
+}
+
