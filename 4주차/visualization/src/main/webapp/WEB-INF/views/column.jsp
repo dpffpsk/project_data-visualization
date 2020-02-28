@@ -11,9 +11,9 @@
 </head>
 <body>
 <h1>Draw ColumnChart</h1>
-<input type="text" name="number" id= num>
+<select name="number" id="num" ></select>
 <button id="draw_chart" class="button">CREATE</button>
-<p>1~1599 사이의 수를 입력하세요.</p>
+<p>select number(1~1599)</p>
 <div id="wineChart" style="margin-top:-18px; margin-left:100px; "></div>
 
 </body>

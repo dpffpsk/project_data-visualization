@@ -1,14 +1,23 @@
 $( document ).ready(function() {
+	createSelect();
 	drawChart();
 });
  
  
 
 google.charts.load('current', {'packages':['corechart']});
-
-
 google.charts.setOnLoadCallback(drawChart);
 
+
+function createSelect(){
+	for(var n=1; n<1600; n++){
+		var ops = document.getElementById("num").options;
+		var op = new Option();
+		op.value = n;
+		op.text = n;
+	    ops.add(op);
+	}
+}
 
 function drawChart() {
   $("#draw_chart").click(function(){  
